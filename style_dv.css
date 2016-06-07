@@ -1,0 +1,50 @@
+
+.heading
+{
+	color:blue; 
+	font-size: 40px;
+}
+
+
+.description
+{
+	color:red; 
+	font-size: 20px;
+	border-style: dotted;
+	border-left-style: solid;
+	border-color: grey;
+	background-color: #FFA500;
+	width: 300px; 
+	position: relative;
+	text-align: center;
+}
+
+.image {
+    width: 200px;
+    position: relative;
+    left: 40px;
+}
+
+
+.chart {
+    width: 1300px;
+    height: 500px;
+}
+
+.circ1 {
+    stroke: green; 
+    fill: white;
+    stroke-width: 5;
+}
+
+.circ2 {
+    stroke: red; 
+    fill: white;
+    stroke-width: 5;
+}
+
+.rect1 {
+    stroke: yellow; 
+    fill: black;
+    stroke-width: 7;
+}
